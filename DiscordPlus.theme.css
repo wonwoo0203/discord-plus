@@ -1,5 +1,5 @@
 /**
- * @name 0987tre
+ * @name 0987654
  * @author Disease#5663
  * @version 1.0.0
  * @description Based on Outlook Web.
@@ -19,9 +19,9 @@
   --accent-saturation: 85%;
   --accent-brightness: 40%;
   --gradient-toggle: 1;
-  --gradient-hue-shift: 0;
+  --gradient-hue-shift: 3.6;
   --gradient-saturation: 0%;
-  --gradient-deg: 38deg;
+  --gradient-deg: 360deg;
   --customFont: Segoe UI;
 }
 
