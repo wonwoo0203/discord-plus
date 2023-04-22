@@ -1,5 +1,5 @@
 /**
- * @name qwaer
+ * @name 0987tre
  * @author Disease#5663
  * @version 1.0.0
  * @description Based on Outlook Web.
@@ -15,13 +15,13 @@
 
 :root {
   --home-image: url('https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif');
-  --accent-hue: 209;
-  --accent-saturation: 100%;
-  --accent-brightness: 42%;
-  --gradient-toggle: 0;
-  --gradient-hue-shift: 0.2;
-  --gradient-saturation: 50%;
-  --gradient-deg: 179.52deg;
+  --accent-hue: 208;
+  --accent-saturation: 85%;
+  --accent-brightness: 40%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0;
+  --gradient-saturation: 0%;
+  --gradient-deg: 38deg;
   --customFont: Segoe UI;
 }
 
