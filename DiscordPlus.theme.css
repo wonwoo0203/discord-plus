@@ -1,5 +1,5 @@
 /**
- * @name lowiaeruhj
+ * @name 23456789
  * @author Disease#5663
  * @version 1.0.0
  * @description Based on Outlook Web.
@@ -14,14 +14,14 @@
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 
 :root {
-  --home-image: url('https://i.imgur.com/tjlWtW4.jpg');
+  --home-image: url('https://i.imgur.com/sDP1Y1X.jpg');
   --accent-hue: 208;
   --accent-saturation: 85%;
   --accent-brightness: 40%;
   --gradient-toggle: 1;
-  --gradient-hue-shift: 0;
-  --gradient-saturation: 1%;
-  --gradient-deg: 87deg;
+  --gradient-hue-shift: 0.08;
+  --gradient-saturation: 2%;
+  --gradient-deg: 179.52deg;
   --customFont: Segoe UI;
 }
 
